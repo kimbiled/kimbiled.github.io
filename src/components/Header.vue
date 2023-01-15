@@ -39,7 +39,7 @@
           </div>
         </div>
         <router-link to="/" class="flex md:hidden"
-          ><img src="../assets/umainy.png" class="h-28 w-28" alt="logo" />
+          ><img src="../assets/logo.png" class="h-10" alt="logo" />
         </router-link>
       </div>
 
@@ -49,7 +49,7 @@
         class="flex-col px-2 md:px-0 space-y-4 border-b-2 pb-4 md:flex md:space-x-10 lg:space-x-5 md:flex-row md:items-center md:mt-0 md:border-b-0"
       >
         <router-link to="/" class="md:flex hidden"
-          ><img src="../assets/umainy.png" class="h-28" alt="logo" />
+          ><img src="../assets/logo.png" class="h-12" alt="logo" />
         </router-link>
         <router-link
           to="/"

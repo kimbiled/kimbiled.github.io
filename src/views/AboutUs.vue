@@ -18,44 +18,6 @@
           <Header @scrollDown="scrollDown()"></Header>
 
           <main class="mx-auto mt-10 sm:mt-12 md:mt-16 lg:mt-20 xl:mt-28">
-            <div class="snowflakes" aria-hidden="true">
-                <div class="snowflake">
-                  ❅
-                  </div>
-                  <div class="snowflake">
-                    ❋
-                  </div>
-                  <div class="snowflake">
-                  ❅
-                  </div>
-                  <div class="snowflake">
-                  ❆
-                  </div>
-                  <div class="snowflake">
-                  ❅
-                  </div>
-                  <div class="snowflake">
-                    ❈
-                  </div>
-                  <div class="snowflake">
-                    ❅
-                  </div>
-                  <div class="snowflake">
-                    ❅
-                  </div>
-                  <div class="snowflake">
-                    ❇
-                  </div>
-                  <div class="snowflake">
-                    ❋
-                  </div>
-                  <div class="snowflake">
-                    ❅
-                  </div>
-                  <div class="snowflake">
-                    ❆
-                  </div>
-                </div>
             <div class="sm:text-center lg:text-left">
               <h1
                 class="text-4xl font-bold tracking-tight text-gray-700 sm:text-5xl"

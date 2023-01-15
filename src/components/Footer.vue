@@ -130,12 +130,12 @@
           <a
             class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900"
           >
-            <img src="../assets/umainy.png" class="h-20 w-20" alt="logo" />
+            <img src="../assets/logo.png" class="h-8" alt="logo" />
           </a>
           <p
             class="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4"
           >
-            © 2021 Umai —
+            © 2023 Umai —
             <a
               href="https://twitter.com/knyttneve"
               class="text-gray-600 ml-1"
